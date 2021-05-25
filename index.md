@@ -22,10 +22,10 @@
 
     <nav>
       <ul>
-        <li><a href="pages/index.html">Home</a></li>
-        <li><a href="pages/docu.html"></a>Documenation</li>
-        <li><a href="pages/product.html">Products</a></li>
-        <li><a href="bumblebee software website/pages/company.html">Company Profile</a></li>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="docu.html"></a>Documenation</li>
+        <li><a href="product.html">Products</a></li>
+        <li><a href="company.html">Company Profile</a></li>
       </ul>
 
        <!-- A Search form is another common non-linear way to navigate through a website. -->
